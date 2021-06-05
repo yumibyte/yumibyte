@@ -65,13 +65,6 @@
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 <!--
 **yumibyte/yumibyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

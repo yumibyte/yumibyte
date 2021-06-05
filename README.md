@@ -1,4 +1,4 @@
-### Hi there 👋             ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there 👋             ![visitors](https://visitor-badge.glitch.me/badge?page_id=${yumibyte}.${374204333})
 
 My name is Ashley Raigosa and I love programming and especially machine learning! I have a passion for promoting diversity in tech and developing projects for social good :)
 

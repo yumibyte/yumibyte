@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 
-<h1> Hello!
+<h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yumibyte.yumibyte)
 

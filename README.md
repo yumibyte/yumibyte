@@ -13,13 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 100 Days of Code (follow me on instagram @yumibyte to see each day), blog posts for [WiMLDS](https://medium.com/wimlds-bay-area-blog), and the [GCL Scholars Program](https://www.girlscomputingleague.org/gcl-scholars-program/) 
-
 - 🌱 I’m currently learning C++ and machine learning 
-
-- 👯 I’m looking to collaborate on Earth Observation Dashboard Hackathon, Articles, Research, and Science Fairs 
-
-- 💬 Talk to me about Python, Java, machine learning, Swift, iOS Development, non-profits, volunteer work, and Open Source
 
 - 📫 How to reach me: ashraigosa@gmail.com
 
